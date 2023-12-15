@@ -1,6 +1,6 @@
 # WRD-PLT (Word Plate)
 
-[plates](./images/plates.png)
+![plates](./images/plates.png)
 
 WRD-PLT (Word Plate) is a roadtrip word game! The game is simple: as another
 car drives by, take the three letters on their license plate, and come up with
@@ -62,13 +62,13 @@ The analysis provides us with a way to define a playability range. We can then
 select only letter triplets that fall within that range, so that the game is
 enjoyable yet challenging.
 
-[distribution](./images/distribution.png)
+![distribution](./images/distribution.png)
 
 ## How to Play
 
 We have set up the game as a web app at [https://wrd-plt.ovisly.com/](https://wrd-plt.ovisly.com/).
 Try it out and see how many points you can get!
 
-[web app](./images/wrd-plt.png)
+![web app](./images/wrd-plt.png)
 
 More detailed description on the analysis can be found in [my blog](https://blog.ovisly.com/wrd-plt).
